@@ -14,8 +14,7 @@ this is a fresh profile where i'll be uploading some small projects,experiments 
 Html, JavaScript, Tailwind
 
 basics of Ai and ML
-
-<br>
+<hr>
 <h3>A Bit About Me</h3>
 
 coffee person
