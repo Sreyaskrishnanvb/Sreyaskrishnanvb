@@ -7,16 +7,14 @@ I’m currently learning the fullstack as well as how to create ML models
 
 this is a fresh profile where i'll be uploading some small projects,experiments and things i'm currently working on 
 
-<br>
+<hr>
 
 <h3> Tools and Tech </h3>
-
-Html, JavaScript, Tailwind
-
-basics of Ai and ML
+Html, JavaScript, Tailwind<br>
+basics of Ai and ML<br>
 <hr>
-<h3>A Bit About Me</h3>
 
-coffee person
-Into anime — Overlord is my favorite
-I like building things that are simple, useful, and easy to understand
+<h3>A Bit About Me</h3>
+coffee person<br>
+Into anime — Overlord is my favorite<br>
+I like building things that are simple, useful, and easy to understand<br>
